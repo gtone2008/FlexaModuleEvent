@@ -1,0 +1,7 @@
+D:\PROJECT\FlexaModuleEvent\EventToDatabase\bin\Debug\EventToDatabase.exe.config
+D:\PROJECT\FlexaModuleEvent\EventToDatabase\bin\Debug\EventToDatabase.exe
+D:\PROJECT\FlexaModuleEvent\EventToDatabase\bin\Debug\EventToDatabase.pdb
+D:\PROJECT\FlexaModuleEvent\EventToDatabase\obj\Debug\EventToDatabase.exe
+D:\PROJECT\FlexaModuleEvent\EventToDatabase\obj\Debug\EventToDatabase.pdb
+D:\PROJECT\FlexaModuleEvent\EventToDatabase\bin\Debug\MySql.Data.dll
+D:\PROJECT\FlexaModuleEvent\EventToDatabase\obj\Debug\EventToDatabase.csprojResolveAssemblyReference.cache

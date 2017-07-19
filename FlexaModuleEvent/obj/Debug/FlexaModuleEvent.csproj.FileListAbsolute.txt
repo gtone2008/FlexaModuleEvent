@@ -1,0 +1,9 @@
+D:\PROJECT\FlexaModuleEvent\FlexaModuleEvent\bin\Debug\FlexaModuleEvent.exe.config
+D:\PROJECT\FlexaModuleEvent\FlexaModuleEvent\bin\Debug\FlexaModuleEvent.exe
+D:\PROJECT\FlexaModuleEvent\FlexaModuleEvent\bin\Debug\FlexaModuleEvent.pdb
+D:\PROJECT\FlexaModuleEvent\FlexaModuleEvent\obj\Debug\FlexaModuleEvent.Form1.resources
+D:\PROJECT\FlexaModuleEvent\FlexaModuleEvent\obj\Debug\FlexaModuleEvent.Properties.Resources.resources
+D:\PROJECT\FlexaModuleEvent\FlexaModuleEvent\obj\Debug\FlexaModuleEvent.csproj.GenerateResource.Cache
+D:\PROJECT\FlexaModuleEvent\FlexaModuleEvent\obj\Debug\FlexaModuleEvent.exe
+D:\PROJECT\FlexaModuleEvent\FlexaModuleEvent\obj\Debug\FlexaModuleEvent.pdb
+D:\PROJECT\FlexaModuleEvent\FlexaModuleEvent\obj\Debug\FlexaModuleEvent.csprojResolveAssemblyReference.cache
